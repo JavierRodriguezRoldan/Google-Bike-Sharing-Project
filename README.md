@@ -8,6 +8,6 @@ Useful information that you can find in the repository:
   - Complete case study in the "Case study" file
   - Link to the raw and clean data  
   - Coding script in the "Script" file
-  - Link to the Tableau visualizations I prepared
+  - [Link](https://public.tableau.com/app/profile/javier.rodr.guez4328/viz/GoogleBikeSharingProject/Hourdayandmonth) to the Tableau visualizations I prepared
 
-Thank you for taking the time to check it out!
+Thank you for taking the time to check this project out!
