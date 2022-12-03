@@ -24,9 +24,9 @@ It consists of cleaning and analysing the data of a fictitious Bike Sharing comp
   
 ## Recommendations to get more casual users to get an annual membership:
 
-  -> Create packages or promotions including summer/weekends and also other less used months or time frames but at a price that can attract casual members to become members 
-  -> Disincentivise being a casual member by increasing the prices in summer, during the weenkeds or long trips so it is worhtwhile becoming a member. On the other hand, or these two combined, new members could be encouraged by promoting better prices on weekdays, short rides and in other months apart from summer
-  -> Advertise on the busiest station at the best possible time. This would be in Streeter Dr & Grand Ave station during summer months at around 5 pm
-  -> Maybe it is worth considering to stop investing in Docked bikes and replace them for either Electric or Classic ones, since both casual and members seem to prefer these other types of bicycle
+  - Create packages or promotions including summer/weekends and also other less used months or time frames but at a price that can attract casual members to become members 
+  - Disincentivise being a casual member by increasing the prices in summer, during the weenkeds or long trips so it is worhtwhile becoming a member. On the other hand, or these two combined, new members could be encouraged by promoting better prices on weekdays, short rides and in other months apart from summer
+  - Advertise on the busiest station at the best possible time. This would be in Streeter Dr & Grand Ave station during summer months at around 5 pm
+  - Maybe it is worth considering to stop investing in Docked bikes and replace them for either Electric or Classic ones, since both casual and members seem to prefer these other types of bicycle
 
 Thank you for taking the time to check this project out! 
