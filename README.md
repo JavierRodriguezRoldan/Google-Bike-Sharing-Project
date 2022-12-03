@@ -11,7 +11,7 @@ It consists of cleaning and analysing the data of a fictitious Bike Sharing comp
       - [Raw Data](https://1drv.ms/u/s!Avxa0UVAVksUoxbPLKREOso_ZuJq?e=auT035)
       - [Clean Data](https://1drv.ms/u/s!Avxa0UVAVksUo0E0yKnibLVa4KDM?e=Ev5WfQ)
   - Coding script in the ["Script"](https://github.com/JavierRodriguezRoldan/Google-Bike-Sharing-Project/blob/main/Script.R) file
-  - [Link](https://public.tableau.com/app/profile/javier.rodr.guez4328/viz/GoogleBikeSharingProject/Hourdayandmonth) to the Tableau visualizations I prepared for an easier comprehension
+  - [Link](https://public.tableau.com/app/profile/javier.rodr.guez4328/viz/GoogleBikeSharingProject/Hourdayandmonth) to the Tableau visualizations I prepared for an easier comprehension. They are also part of the project
   
 ## Conclusions of the analysis:
 
