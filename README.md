@@ -6,9 +6,9 @@ It consists of cleaning and analysing the data of a fictitious Bike Sharing comp
 
 ## Useful information that you can find in the repository:
 
-  - Complete case study in the "[Case study]([url](https://github.com/JavierRodriguezRoldan/Google-Bike-Sharing-Project/blob/main/Case%20Study.docx))" file
-  - [Link]([url](https://github.com/JavierRodriguezRoldan/Google-Bike-Sharing-Project/blob/main/Raw%20and%20clean%20data%20links.txt)) to the raw and clean data  
-  - Coding script in the "[Script]"([url](https://github.com/JavierRodriguezRoldan/Google-Bike-Sharing-Project/blob/main/Script.R)) file
+  - Complete case study in the ["Case study"](https://github.com/JavierRodriguezRoldan/Google-Bike-Sharing-Project/blob/main/Case%20Study.docx) file
+  - [Link](https://github.com/JavierRodriguezRoldan/Google-Bike-Sharing-Project/blob/main/Raw%20and%20clean%20data%20links.txt) to the raw and clean data  
+  - Coding script in the ["Script"](https://github.com/JavierRodriguezRoldan/Google-Bike-Sharing-Project/blob/main/Script.R) file
   - [Link](https://public.tableau.com/app/profile/javier.rodr.guez4328/viz/GoogleBikeSharingProject/Hourdayandmonth) to the Tableau visualizations I prepared
   
 ## Conclusions of the analysis:
