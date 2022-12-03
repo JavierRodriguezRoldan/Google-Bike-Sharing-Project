@@ -13,10 +13,12 @@ It consists of cleaning and analysing the data of a fictitious Bike Sharing comp
   
 ## Conclusions of the analysis:
 
-  * s
-  * a
-  * s
-  * s
+  - The Docked bike is not used at all by members and little by casual users
+  - Looking at the usage peak hours you can assume members ride to work in the morning and once they finish, while casual users do not go to work by bike but they do use it once they finish
+  - On the weenkends the use increases for casual users but decreases for members
+  - Ride lenght is always longer for casual users, specially on weekends. Whereas ride lenght for members is stable throughout the year and for all days of the week
+  - Summer is the time of the yearwith the most rides for both member types and winter the time with the least  
+  - The most used station is by far "Streeter Dr & Grand Ave", specially by casual users
   
 ## Recommendations to get more
 
