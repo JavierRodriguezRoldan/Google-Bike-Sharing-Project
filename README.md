@@ -22,7 +22,7 @@ It consists of cleaning and analysing the data of a fictitious Bike Sharing comp
   - Summer is the time of the yearwith the most rides for both member types and winter the time with the least  
   - The most used station is by far "Streeter Dr & Grand Ave", specially by casual users
   
-## Recommendations to get more
+## Recommendations to get more casual users to get an annual membership:
 
   -> s
   -> s
