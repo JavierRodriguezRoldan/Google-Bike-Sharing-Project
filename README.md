@@ -7,8 +7,8 @@ It consists of cleaning and analysing the data of a fictitious Bike Sharing comp
 ## Useful information that you can find in the repository
 
   - Complete case study in the ["Case study"](https://github.com/JavierRodriguezRoldan/Google-Bike-Sharing-Project/blob/main/Case%20Study.docx) file 
-  - [Raw Data](https://1drv.ms/u/s!Avxa0UVAVksUoxbPLKREOso_ZuJq?e=auT035)
-  - [Clean Data](https://1drv.ms/u/s!Avxa0UVAVksUo0E0yKnibLVa4KDM?e=Ev5WfQ)
+  - [Raw Data](https://1drv.ms/u/s!Avxa0UVAVksUo0oojD0XPe3cBBKr?e=70Jajd)
+  - [Clean Data](https://1drv.ms/u/s!Avxa0UVAVksUo0mG-2cNfWLdonH7?e=gr0E2g)
   - Coding script in the ["Script"](https://github.com/JavierRodriguezRoldan/Google-Bike-Sharing-Project/blob/main/Script.R) file
   - [Tableau](https://public.tableau.com/app/profile/javier.rodr.guez4328/viz/GoogleBikeSharingProject/Hourdayandmonth) visualizations I prepared for an easier comprehension. They are also part of the project
   
